@@ -1,0 +1,1 @@
+{"id":"./","name":"富士口袋 · DNG 本地转换","short_name":"富士口袋","description":"本地处理 DNG，照片不上传。","lang":"zh-CN","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f3ec","theme_color":"#f4f3ec","icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}]}
